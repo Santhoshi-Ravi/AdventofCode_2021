@@ -1,4 +1,4 @@
-fn = "adventofcode_1.txt"
+fn = "Data/adventofcode_1.txt"
 with open(fn, "r") as my_file:
     myl = list(map(int,my_file.read().replace("\n",",").split(",")))
 def increase(myl,win):
