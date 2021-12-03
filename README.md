@@ -8,3 +8,4 @@ The event lasts till December 25th, so 50 stars need to be collected in total.
 <ul>
   <li><a href = "https://github.com/Santhoshi-Ravi/AdventofCode_2021/blob/main/Solutions/Day1_solution.py">Day 1</a>  <span style="font-size:150%;color:#FFD700;">&starf;</span> <span style="font-size:150%;color:#FFD700;">&starf;</span></li>
   <li><a href = "https://github.com/Santhoshi-Ravi/AdventofCode_2021/blob/main/Solutions/Day2_solution.py">Day 2</a> <span style="font-size:150%;color:#FFD700;">&starf;</span> <span style="font-size:150%;color:#FFD700;">&starf;</span></li>
+  <li><a href = "https://github.com/Santhoshi-Ravi/AdventofCode_2021/blob/main/Solutions/Day3_solution.py">Day 2</a> <span style="font-size:150%;color:#FFD700;">&starf;</span></li>
